@@ -4,7 +4,7 @@
 
 <div align="center">
     <p>Vistor Count</p>
-    <img src="https://profile-counter.glitch.me/ChongYanOvO/count.svg" />
+    <img src="https://profile-counter.glitch.me/Tsukikage7/count.svg" />
 </div>
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Han Xin(韩信), BackEnd developer.
@@ -41,14 +41,14 @@ ASP.NET                            4 hrs 36 mins   ▓░░░░░░░░�
 </table>
 
 <div align="center">
-<img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent" alt="ChongYanOvO"/>
+<img src="https://chongyan-github-readme-stats-5tsvxypir-Tsukikage7.vercel.app/api?username=Tsukikage7&show_icons=true&theme=transparent" alt="Tsukikage7"/>
 </div>
 
 ### About My Technology Stack
 <h4>Languages</h4>
 <div>
-<a href="https://github.com/ChongYanOvO">
-  <img align="right" src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api/top-langs?username=ChongYanOvO" alt="ChongYanOvO"/>
+<a href="https://github.com/Tsukikage7">
+  <img align="right" src="https://chongyan-github-readme-stats-5tsvxypir-Tsukikage7.vercel.app/api/top-langs?username=Tsukikage7" alt="Tsukikage7"/>
 </a>
 <code><a href="https://go.dev/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Golang.svg" alt="Golang"/></a></code>
 <code><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Java.svg" alt="Java"/></a></code>
