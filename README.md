@@ -36,7 +36,6 @@ ASP.NET                            4 hrs 36 mins   ▓░░░░░░░░�
 </tr>
 </table>
 
-
 ### About My Technology Stack
 <h4>Languages</h4>
 <div>
