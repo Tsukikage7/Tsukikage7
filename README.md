@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4BE5F7&width=435&lines=Endless+improvement" alt="Typing SVG" />
 </div>
 
-<div align="center">
-    <p>Vistor Count</p>
-    <img src="https://profile-counter.glitch.me/Tsukikage7/count.svg" />
-</div>
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <ul>
