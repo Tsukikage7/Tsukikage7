@@ -5,7 +5,7 @@
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <ul>
-    <li>🏫 Graduate from NUIST (Computer science and technology)</li>
+    <li>🏫 Graduate from NUIST (Computer Science and Technology)</li>
     <li>💻️ BackEnd engineer at UCloud.</li>
     <li>🐈️ Love some cute animal.</li>
 </ul>
