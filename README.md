@@ -35,9 +35,6 @@ Makefile             56 mins         ▓░░░░░░░░░░░░░�
 ### About My Technology Stack
 <h4>Languages</h4>
 <div>
-<a href="https://github.com/Tsukikage7">
-  <img align="right" src="https://chongyan-github-readme-stats-5tsvxypir-Tsukikage7.vercel.app/api/top-langs?username=Tsukikage7" alt="Tsukikage7"/>
-</a>
 <code><a href="https://go.dev/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Golang.svg" alt="Golang"/></a></code>
 <code><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Java.svg" alt="Java"/></a></code>
 <code><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/JavaScript.svg" alt="JavaScript"/></a></code>
