@@ -36,9 +36,6 @@ ASP.NET                            4 hrs 36 mins   ▓░░░░░░░░�
 </tr>
 </table>
 
-<div align="center">
-<img src="https://chongyan-github-readme-stats-5tsvxypir-Tsukikage7.vercel.app/api?username=Tsukikage7&show_icons=true&theme=transparent" alt="Tsukikage7"/>
-</div>
 
 ### About My Technology Stack
 <h4>Languages</h4>
