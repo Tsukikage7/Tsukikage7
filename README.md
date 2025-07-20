@@ -20,11 +20,11 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                21 hrs 17 mins  ██████████████▒░░░░░░░░░░   57.75 %
-YAML              4 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-Vue.js            3 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Makefile          2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-protobuf          1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Go                23 hrs 26 mins  ███████████████░░░░░░░░░░   60.24 %
+YAML              5 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Vue.js            3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Makefile          2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+protobuf          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
