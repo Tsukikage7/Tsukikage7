@@ -20,11 +20,11 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                10 hrs 17 mins  ██████████▓░░░░░░░░░░░░░░   42.45 %
-YAML              7 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   32.81 %
-Other             1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Protocol Buffer   1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Markdown          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Go                11 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.47 %
+YAML              7 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.06 %
+Other             1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Protocol Buffer   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
