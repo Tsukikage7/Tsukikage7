@@ -20,11 +20,11 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         19 hrs 35 mins  ███████████████▒░░░░░░░░░   61.29 %
-YAML                       3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Makefile                   1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-TOML                       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-go.mod                     1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Go                    22 hrs 53 mins  ████████████████░░░░░░░░░   64.11 %
+Makefile              2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+YAML                  2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+TOML                  1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+go.mod                1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
