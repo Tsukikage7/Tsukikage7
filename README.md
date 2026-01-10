@@ -21,11 +21,11 @@ Hi Guys, my name is Tsukikage, Golang Backend Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                         3 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 %
-Markdown                   3 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-Makefile                   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
-Other                      1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Bash                       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Markdown                   3 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+Go                         3 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+Makefile                   1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Other                      1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Bash                       1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
 ```
 
 <!--END_SECTION:waka-->
