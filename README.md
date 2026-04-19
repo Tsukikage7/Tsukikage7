@@ -111,23 +111,6 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 
 <h2>Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Tsukikage7/servex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage7&repo=servex&theme=buefy&hide_border=true" alt="servex" />
-  </a>
-  <a href="https://github.com/Tsukikage7/dubbo-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage7&repo=dubbo-go&theme=buefy&hide_border=true" alt="dubbo-go" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Tsukikage7/dubbo-go-pixiu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage7&repo=dubbo-go-pixiu&theme=buefy&hide_border=true" alt="dubbo-go-pixiu" />
-  </a>
-  <a href="https://github.com/Tsukikage7/akka-spark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage7&repo=akka-spark&theme=buefy&hide_border=true" alt="akka-spark" />
-  </a>
-</p>
-
 | Project | Description | Stack |
 | :-- | :-- | :-- |
 | **[servex](https://github.com/Tsukikage7/servex)** | High-performance Go service framework — production-ready microservice scaffolding with built-in service governance | `Go` `gRPC` `Microservices` |
