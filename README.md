@@ -30,10 +30,6 @@ Hi there, I'm **Tsukikage** — a backend engineer working on AI applications an
 
 <h2>Stats</h2>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -46,35 +42,9 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tsukikage7&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukikage7&theme=buefy&hide_border=true" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukikage7&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
-### Profile Summary
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukikage7&theme=default" alt="Profile Details" />
+  <img src="./metrics.svg" alt="GitHub Metrics" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsukikage7&theme=default" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsukikage7&theme=default" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsukikage7&theme=default" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsukikage7&theme=default&utcOffset=8" alt="Productive Time" />
-</p>
 
 ---
 
@@ -173,14 +143,6 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 - Working on **AI infra at UCloud** — model serving, inference optimization, GPU scheduling
 - Diving into **vLLM · Triton Inference Server · Ray · distributed training**
 - Writing about the intersection of **AI systems and cloud-native engineering**
-
----
-
-<h2>Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukikage7&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
 
 ---
 
