@@ -42,10 +42,6 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
-</div>
-
 ---
 
 <h2>Tech Stack</h2>
