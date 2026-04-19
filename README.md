@@ -59,11 +59,21 @@ Python            52 mins               ▓░░░░░░░░░░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukikage7&theme=buefy&hide_border=true" alt="GitHub Streak" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukikage7&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
-### GitHub Trophies
+### Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tsukikage7&theme=flat&no-frame=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukikage7&theme=default" alt="Profile Details" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsukikage7&theme=default" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsukikage7&theme=default" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsukikage7&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsukikage7&theme=default&utcOffset=8" alt="Productive Time" />
+</p>
 
 ---
 
