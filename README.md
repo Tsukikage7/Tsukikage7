@@ -82,27 +82,16 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 ### Primary — Go Backend & Cloud Native
 
 <div align="center">
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/></code>
-<code><img height="45" width="45" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="Gin"/></code>
-<code><img height="45" width="45" src="https://gorm.io/gorm.svg" alt="Gorm"/></code>
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC"/></code>
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/></code>
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/></code>
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus"/></code>
-<code><img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"/></code>
+  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,prometheus,grafana,nginx&theme=light" alt="Primary stack" />
 </div>
+<p align="center"><b>Frameworks</b>: Gin · Gorm · gRPC</p>
 
 ### Storage & Middleware
 
 <div align="center">
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka"/></code>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,elasticsearch,kafka&theme=light" alt="Storage & middleware" />
 </div>
+<p align="center"><b>Analytics</b>: ClickHouse</p>
 
 ### Familiar
 
@@ -111,54 +100,31 @@ Python            52 mins               ▓░░░░░░░░░░░░�
 
 <br/>
 
-**Languages** — Java · Scala · Python · TypeScript · Rust · C
+<b>Languages</b>
 
-<div align="left">
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,scala,py,ts,rust,c&theme=light" alt="Languages" />
 </div>
 
-**Big Data** — Spark · Flink · Hadoop · Hive · HBase
+<b>Backend Frameworks</b>
 
-<div align="left">
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark"/></code>
-<code><img height="35" width="35" src="https://cdn.simpleicons.org/apacheflink/E6526F" alt="Flink"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop"/></code>
-<code><img height="35" width="35" src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive"/></code>
-<code><img height="35" width="35" src="https://cdn.simpleicons.org/apache/D22128" alt="HBase"/></code>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=light" alt="Backend frameworks" />
 </div>
 
-**Backend Frameworks** — Spring · FastAPI · Flask
+<b>Frontend</b>
 
-<div align="left">
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"/></code>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,tailwind&theme=light" alt="Frontend" />
 </div>
 
-**Frontend** — React · Vue · Next.js · Vite · Tailwind
+<b>DevOps & Tools</b>
 
-<div align="left">
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"/></code>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,linux,git,github,gitlab,vscode,vim&theme=light" alt="DevOps & tools" />
 </div>
 
-**DevOps & Tools** — Terraform · Nginx · Linux · Git · Vim
-
-<div align="left">
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim"/></code>
-</div>
+<b>Big Data</b>: Spark · Flink · Hadoop · Hive · HBase
 
 </details>
 
