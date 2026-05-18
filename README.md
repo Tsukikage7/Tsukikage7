@@ -33,11 +33,11 @@ Hi there, I'm **Tsukikage** — a backend engineer working on AI applications an
 <!--START_SECTION:waka-->
 
 ```txt
-Go                8 hrs 31 mins         ████████░░░░░░░░░░░░░░░░░   31.48 %
-Markdown          4 hrs 33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-TypeScript        4 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-YAML              2 hrs 38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Python            1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Go                17 hrs 30 mins        ████████▒░░░░░░░░░░░░░░░░   33.41 %
+TypeScript        6 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Markdown          5 hrs 50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+YAML              3 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Other             3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
